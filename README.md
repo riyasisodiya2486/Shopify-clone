@@ -4,11 +4,9 @@ A responsive front-end clone of Shopify built using **React js and Tailwind CSS*
 
 ## 🚀 Features
 
-- Fully responsive design
 - Tailwind CSS utility-first styling
 - Clean layout inspired by Shopify's real homepage
 - Reusable components
-- Mobile-first approach
 
 ## 🛠️ Tech Stack
 
