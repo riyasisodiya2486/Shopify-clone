@@ -1,4 +1,3 @@
-﻿# Shopify-clone
 # 🛍️ Shopify Clone
 
 A responsive front-end clone of Shopify built using **React js and Tailwind CSS** and modern development practices. This project replicates the UI of the Shopify landing page and demonstrates a clean, component-based architecture.
